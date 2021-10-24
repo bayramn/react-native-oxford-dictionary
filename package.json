@@ -1,0 +1,29 @@
+{
+  "name": "react-native-oxford-dictionary",
+  "version": "1.0.0",
+  "description": "React Native node module wrapper for Oxford Dictionary API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bayram96/react-native-oxford-dictionary.git"
+  },
+  "keywords": [
+    "react",
+    "native",
+    "oxford",
+    "dictionary",
+    "api"
+  ],
+  "author": "Bayram Nurberdiyev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bayram96/react-native-oxford-dictionary/issues"
+  },
+  "homepage": "https://github.com/bayram96/react-native-oxford-dictionary#readme",
+  "dependencies": {
+    "node-fetch": "^3.0.0"
+  }
+}
