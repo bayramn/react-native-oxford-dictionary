@@ -1,6 +1,6 @@
 {
   "name": "react-native-oxford-dictionary",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "React Native node module wrapper for Oxford Dictionary API",
   "main": "index.js",
   "scripts": {
