@@ -1,4 +1,3 @@
-const fetch = require("node-fetch");
 var OxfordDictionary = function(obj) {
     this.config = {
         app_id : obj.app_id,

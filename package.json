@@ -1,6 +1,6 @@
 {
   "name": "react-native-oxford-dictionary",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "React Native node module wrapper for Oxford Dictionary API",
   "main": "index.js",
   "scripts": {
@@ -22,8 +22,5 @@
   "bugs": {
     "url": "https://github.com/bayram96/react-native-oxford-dictionary/issues"
   },
-  "homepage": "https://github.com/bayram96/react-native-oxford-dictionary#readme",
-  "dependencies": {
-    "node-fetch": "^3.0.0"
-  }
+  "homepage": "https://github.com/bayram96/react-native-oxford-dictionary#readme"
 }
