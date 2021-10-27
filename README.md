@@ -1,5 +1,5 @@
 # react-native-oxford-dictionary
-React Native node module wrapper for Oxford Dictionary API(https://developer.oxforddictionaries.com/). Inspired by oxford-dictionary(https://www.npmjs.com/package/oxford-dictionary)
+React Native node module wrapper for Oxford Dictionary [API](https://developer.oxforddictionaries.com/). Inspired by [oxford-dictionary](https://www.npmjs.com/package/oxford-dictionary)
 
 # Install:
 ```shell
